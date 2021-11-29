@@ -2,7 +2,7 @@
 
 This is a basic web app built with svelte to display ascii art animation in the browser.
 
-WIP: massive refactor in progress.
+`:construction:` WIP: massive refactor in progress.
 
 This work uses [this blogpost](https://www.a1k0n.net/2011/07/20/donut-math.html) as a source.
 
