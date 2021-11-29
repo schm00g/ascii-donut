@@ -6,6 +6,8 @@ WIP: massive refactor in progress.
 
 This uses [this source](https://www.a1k0n.net/2011/07/20/donut-math.html).
 
+![Demo](https://d2w9rnfcy7mm78.cloudfront.net/14168213/original_59f9801f693306a982fc6108f782b709.gif?1638192828?bc=0)
+
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
